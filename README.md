@@ -25,9 +25,9 @@ I'm a dedicated developer who loves building applications that solve real-world 
 ---
 
 ### 🚀 Latest Projects  
-🔹 **[News App](#)** - A cool web app built with React & Node.js to display the latest news around the world.
-🔹 **[Book Review](#)** - A Web that allows you to search for books and leave reviews on any of them.
-🔹 **[Weather App](#)** - An API-driven application for real-time weather updates. 
+- **[News App](#)** - A cool web app built with React & Node.js to display the latest news around the world.
+- **[Book Review](#)** - A Web that allows you to search for books and leave reviews on any of them.
+- **[Weather App](#)** - An API-driven application for real-time weather updates. 
 
 💡 *Check out my GitHub repositories for more projects!*  
 
