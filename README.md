@@ -13,8 +13,7 @@ I'm a dedicated developer who loves building applications that solve real-world 
 - **Languages**: JavaScript, C#, Flutter  
 - **Front-End**: React.js, HTML, CSS,  
 - **Back-End**: Node.js
-- **Databases**: Firebase  
-- **Tools**: Git, Docker, CI/CD  
+- **Databases**: Firebase
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tokoloho-lekoro-40ba1a1a0)  
