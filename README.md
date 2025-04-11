@@ -11,8 +11,8 @@ I'm a dedicated developer who loves building applications that solve real-world 
 
 ### ⚡ Tech Stack  
 - **Languages**: JavaScript, C#, Flutter  
-- **Front-End**: React.js, HTML, CSS,  
-- **Back-End**: Node.js
+- **Front-End**: React.js, HTML, CSS, Blazor  
+- **Back-End**: Node.js, ASP.NET Core
 - **Databases**: Firebase
 
 ### 📫 Connect with Me  
