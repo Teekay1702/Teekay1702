@@ -5,7 +5,7 @@
 ### 🔹 About Me  
 I'm a dedicated developer who loves building applications that solve real-world problems. Whether it's front-end development, back-end services, or full-stack applications, I'm always eager to learn and improve my skills.  
 
-- 🔭 I’m currently working on exciting **Microsoft Developer**.  
+- 🔭 I’m currently working on exciting **Microsoft Developer Projects**.  
 - 🌱 Always learning new technologies to enhance my development skills.  
 - 🎯 Passionate about **building scalable web applications** and improving user experience.  
 
